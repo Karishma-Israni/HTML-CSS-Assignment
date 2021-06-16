@@ -1,0 +1,142 @@
+@media screen and (max-width: 414px ) {
+    #wrapper  { width: 414px!important;
+                            height: auto!important;
+                      }
+}
+
+#wrapper { width: auto; height: auto;}
+
+#wrapper{
+/* width: 1200px; */
+height: 1300px;
+}
+
+#header{
+text-align: center;
+}
+
+
+@media screen and (max-width: 767px ) {
+.heading { width: 720px!important;
+    margin-left: auto;
+    margin-right: auto;
+                
+                      }
+}
+
+@media screen and (max-width: 414px ) {
+    .heading  { width: 414px!important;
+                      }
+}
+
+
+.heading { width: auto; height: auto;}
+
+#main {
+width: 200px;
+}
+
+#nav {
+text-align: center;
+}
+
+#search {
+text-align: center;
+}
+
+h5 {
+text-align: center;
+font-size: large;
+}
+
+
+@media screen and (max-width: 414px ) {
+.div1 {
+    width: 277px!important;
+                  }
+}
+
+.div1 { width: auto; height: auto;}
+
+.div1 {
+display: inline-block;
+width: 400px;
+background-color: white;
+border-radius: 10px;
+height: 200px;
+padding: 30px;
+margin: 10px;
+}
+
+
+#bottom {
+background-color: #f4fbff;
+text-align: center;
+padding: 20px;
+}
+
+hr {
+max-width: 970px;
+}
+
+input[type=submit] {
+background-color: #ffd433;
+border: none;
+color: black;
+padding: 16px 32px;
+text-decoration: none;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 20px;
+font-weight: bold;
+
+}
+@media screen and (max-width: 414px ) {
+input  { width: 250px!important;
+                        
+                        margin-top: 8px!important;
+                  }
+}
+
+
+input { width: auto; height: auto;}
+
+
+
+select {
+padding: 8px;
+border-radius: 5px;
+width: 250px;
+margin-right: 10px;
+margin-left: 10px;
+margin-top: 8px;
+}
+
+form {
+padding: 15px;
+}
+
+.active {
+color: black;
+padding: 13px;
+font-weight: bold;
+display: inline-block;
+}
+
+@media screen and (max-width: 414px ) {
+    .active { padding: 13px!important;
+        width: 90px!important;
+        vertical-align: top!important;
+                      }
+}
+
+.active { width: auto; height: auto;}
+
+
+.skills{
+padding: 5px;
+}
+
+label {
+    font-weight: bold;
+}
